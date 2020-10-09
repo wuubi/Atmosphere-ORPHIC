@@ -1,5 +1,4 @@
-
-![Banner](img/banner.png?raw=true)
+Orphic Atmosphere Branch (Jekyll on gh-pages branch)
 =====
 
 ![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
